@@ -1,0 +1,54 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.width{
+	width:960px;
+}
+.top_bar ul{
+	list-style:none;
+}
+.top_bar ul li{
+	padding:0px;
+	margin:0px;
+	height:160px;
+	width:960px;
+	background-image:url(image/DipokN.png);
+	border:0px solid white;
+	text-align:center;
+	line-height:185px;
+	float:left;
+	margin:auto;
+	position:fixed;
+}
+.top_bar ul li a{
+	text-decoration:none;
+	color:#a0cc3a;
+	display:block;
+	font-size:50;
+	padding-left:700px;
+}
+.Address{
+	width:960px;
+	height:320px;
+	float:left;
+}
+#Ab{
+	width:960px;
+	height:320px;
+	float:left;
+	padding-top:160px;
+}
+.Day ul{
+	list-style:none;
+	padding-top:500px;
+}
+.Day ul li{
+	padding-top:10px;
+	width:960px;
+	height:200px;
+	line-height:200px;
+	float:left;
+	position:relative;
+	margin:auto;
+}

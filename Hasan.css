@@ -1,0 +1,44 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.width{
+	width:960px;
+}
+.top_bar ul{
+	list-style:none;
+}
+.top_bar ul li{
+	padding:0px;
+	margin:0px;
+	height:160px;
+	width:960px;
+	background-image:url(image/HasanN.png);
+	border:0px solid white;
+	text-align:center;
+	line-height:185px;
+	float:left;
+	margin:auto;
+	position:fixed;
+}
+.top_bar ul li a{
+	text-decoration:none;
+	color:#a0cc3a;
+	display:block;
+	font-size:50;
+	padding-left:700px;
+}
+.Address{
+	width:960px;
+	height:320px;
+	float:left;
+}
+#Ab{
+	width:960px;
+	height:320px;
+	float:left;
+	padding-top:160px;
+}
+#ab2{
+	padding-top:180px;
+}
